@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.TP2.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\thibb\Desktop\Cours\M1\S2\Prog 3D\TP2\.idea\.idea.TP2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
